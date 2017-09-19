@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharePair</string>
+    <array name="Department">
+        <item>Computer</item>
+    </array>
+
+    <array name="StudentDepartment">
+        <item>Computer</item>
+    </array>
+</resources>
